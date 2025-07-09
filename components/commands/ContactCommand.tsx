@@ -32,8 +32,8 @@ export default function ContactCommand() {
     },
     {
       platform: "Portfolio",
-      handle: "rohitrai.terminal-portfolio",
-      link: "https://terminal-portfolio-nextjs-f5tz54pe4-rohitrais-projects.vercel.app/",
+      handle: "rohitrai Treminal Portfolio",
+      link: "https://rohitraitreminalportfolio.netlify.app/",
       icon: "🌐",
       description: "Visit my main portfolio website"
     }
